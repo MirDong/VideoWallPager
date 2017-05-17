@@ -1,2 +1,2 @@
 # VideoWallPager
-设置Android壁纸
+设置Android动态壁纸
